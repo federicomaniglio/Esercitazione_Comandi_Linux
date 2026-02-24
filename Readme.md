@@ -1,5 +1,3 @@
-Ecco la consegna completa con TUTTI i comandi, inclusi quelli della treasure hunt!
-
 # 🐧 Esercitazione Completa: Comandi Linux
 
 ## Obiettivo
